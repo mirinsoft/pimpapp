@@ -104,7 +104,7 @@ Donationware (private and commercial use)
 ---
 
 > [mirinsoft.com](https://www.mirinsoft.com) &nbsp;&middot;&nbsp;
-> GitHub [@mirinsoft](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
-> Twitter [@mirinsoft](https://twitter.com/mirinsoft)
+> GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
+> Twitter [@builtbybel](https://twitter.com/builtbybel)
 
 
